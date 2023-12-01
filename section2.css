@@ -107,3 +107,10 @@ i {
     line-height: 23px;
     color: rgba(66, 41, 31, 0.85);
 }
+a {
+    text-decoration: none;
+    width: 60px;
+    height: 15px;
+    background-color: aqua;
+
+}
