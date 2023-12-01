@@ -24,19 +24,21 @@
 }
 
 .section_main1-title {
-    font-family: Poppins;
-    font-size: 3.1062rem;
+    font-family: "Poppins";
+    font-size: 45px;
     font-weight: 400;
     line-height: 3.75rem;
     color: rgba(55, 70, 57, 1);
-
+    letter-spacing: -0.05em;
+    text-align: left;
+    
 
 }
 
 .section_main1-content {
-    max-width: 519px;
-    font-family: Poppins;
-    font-size: 1.5rem;
+    width: 519px;
+    font-family: "Poppins";
+    font-size: 19px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5rem;
@@ -75,18 +77,20 @@
 
 .content1_main-1 {
     color: #414F42;
-    font-family: Poppins;
+    font-family: "Poppins";
     font-size: 1.36rem;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5625rem;
+    font-size: 20px;
+    letter-spacing: -0.01em;;
 }
 
 .content1_main-2 {
-    max-width: 308px;
+    width: 308px;
     color: rgba(63, 81, 75, 1);
-    font-family: Poppins;
-    font-size: 1.3025rem;
+    font-family: "Poppins";
+    font-size: 17px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5rem;
@@ -94,14 +98,14 @@
 
 .content1_foot {
     display: flex;
-    gap: 4px;
+    gap: 6px;
     align-items: center;
 }
 
 .content1_foot-1 {
     width: 1.8125rem;
     height: 17px;
-    font-family: Poppins;
+    font-family: "Poppins";
     text-decoration: line-through;
     font-size: 13px;
     font-weight: 400;
@@ -110,9 +114,7 @@
 }
 
 .content1_foot-2 {
-    width: 2.8125rem;
-    height: 1.4375rem;
-    font-family: Poppins;
+    font-family: "Poppins";
     font-size: 18px;
     font-weight: 400;
     line-height: 1.4375rem;
@@ -122,29 +124,38 @@
 .content_main {
     display: flex;
     align-items: center;
-    margin-top:13px;
+    margin-top: 13px;
     margin-bottom: 13px;
 }
 
 .content_main-1 {
-  
-    font-family: Poppins;
-    font-size: 0.9375rem;
+
+    font-family: "Poppins";
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
     line-height: 18px;
     color: rgba(78, 92, 88, 1);
+    letter-spacing:0.01em;
     text-transform: uppercase;
+    font-family: Poppins;
+
+
+
 }
 
 .content_main-2 {
     color: rgba(78, 92, 88, 1);
     margin-left: 1.5rem;
-    font-family: Poppins;
-    font-size: 0.9375rem;
+    font-family: "Poppins";
+    font-size: 14px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5rem;
+    width: 155px;
+    height: 24px;
+
+
 }
 
 .line {
@@ -153,6 +164,7 @@
     background-color: rgba(236, 237, 236, 1);
 
 }
+
 a {
     text-decoration: none;
     width: 60px;

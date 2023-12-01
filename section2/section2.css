@@ -16,7 +16,7 @@
 .title_text {
     max-width:  273px;
     max-height: 61px;
-    font-family: Instrument Serif;
+    font-family: "Instrument" Serif;
     font-size: 44px;
     font-style: normal;
     font-weight: 400;
@@ -88,7 +88,7 @@ i {
 }
 
 .content_title-1 {
-    font-family: Instrument Serif;
+    font-family: "Instrument" Serif;
     font-size: 26px;
     font-style: normal;
     font-weight: 400;
@@ -100,7 +100,7 @@ i {
     max-width: 31.1875rem;
 }
 .content_main-text {
-    font-family: Inter;
+    font-family: "Inter";
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
